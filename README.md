@@ -20,3 +20,21 @@ Machine Learning Project
 label the data in the picture according to its class; the other one for the test data in the same PCA space and label the data in the picture according to its class.</li>
 </ol>
 </p>
+<br/>
+<h3>Task 3</h3>
+<p>
+        Do a classification using the Naïve Bayes Classification model
+    <ol><li>Train the model using the original training set and report the performance on the test set including accuracy rate.</li></ol>
+</p>
+<h3>
+  Task4
+</h3>
+<p>
+  <b>Investigate how the number of features in the training dataset affects the model performance on the validation set</b>
+  <ol>
+    <li>Use the training set (II) to train 13 Naïve Bayes Classification models, with 13 different feature sets. That is: the first one is to use the 1st feature only; the second one is to use the 1st and the 2nd features; the third one is to use the 1st, 2nd, and 3rd features, the fourth one is to use the first 4 features, and so on.
+Measure the accuracy rate on both the training set and the validation set. Report the results by plotting them in a figure: that is, a plot of the accuracy rate against the number of features used in each model. There should be two curves in this figure: one for the training set (II); the other one for the validation set</li>
+    <li>Report what is the best number of features you would like to use in this work and explain why you choose it. Write it down in your Jupyter notebook </li>
+    <li>Use the selected number of features to train the model and report the performance on the test set</li>
+</ol>
+</p>
