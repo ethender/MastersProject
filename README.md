@@ -26,6 +26,7 @@ label the data in the picture according to its class; the other one for the test
         Do a classification using the Naïve Bayes Classification model
     <ol><li>Train the model using the original training set and report the performance on the test set including accuracy rate.</li></ol>
 </p>
+<br />
 <h3>
   Task 4: Select Features for model predicting
 </h3>
@@ -38,6 +39,7 @@ Measure the accuracy rate on both the training set and the validation set. Repor
     <li>Use the selected number of features to train the model and report the performance on the test set</li>
 </ol>
 </p>
+<br />
 <h3>
 Task 5: Report The Findings.
 </h3>
