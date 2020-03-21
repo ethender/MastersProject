@@ -21,13 +21,14 @@ label the data in the picture according to its class; the other one for the test
 </ol>
 </p>
 <br/>
-<h3>Task 3</h3>
+<h3>Task 3: Naïve Bayes Classification model</h3>
 <p>
         Do a classification using the Naïve Bayes Classification model
     <ol><li>Train the model using the original training set and report the performance on the test set including accuracy rate.</li></ol>
 </p>
+<br />
 <h3>
-  Task4
+  Task 4: Select Features for model predicting
 </h3>
 <p>
   <b>Investigate how the number of features in the training dataset affects the model performance on the validation set</b>
@@ -37,4 +38,13 @@ Measure the accuracy rate on both the training set and the validation set. Repor
     <li>Report what is the best number of features you would like to use in this work and explain why you choose it. Write it down in your Jupyter notebook </li>
     <li>Use the selected number of features to train the model and report the performance on the test set</li>
 </ol>
+</p>
+<br />
+<h3>
+Task 5: Report The Findings.
+</h3>
+<p>
+	<ol>
+		<li>Summarize your findings, write your conclusions using critical thinking (no more than 100 words) and write it down in your Jupyter notebook</li>
+	</ol>
 </p>
